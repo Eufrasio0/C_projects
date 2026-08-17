@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1764988100 source:c:\users\eufrasio\onedrive\desktop\lista10\func_pilhas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhasEnca.h"
+
+1764986953 c:\users\eufrasio\onedrive\desktop\lista10\func_pilhas\pilhasenca.h
+
+1765392097 source:c:\users\eufrasio\onedrive\desktop\lista10\func_pilhas\functi_pilhas.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhasEnca.h"
+
