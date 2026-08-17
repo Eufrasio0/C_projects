@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1764995473 source:c:\users\eufrasio\onedrive\desktop\lista10\reidomocoto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"reidomocoto.h"
+
+1764995609 c:\users\eufrasio\onedrive\desktop\lista10\reidomocoto\reidomocoto.h
+
+1764996178 source:c:\users\eufrasio\onedrive\desktop\lista10\reidomocoto\func_reidomocoto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"reidomocoto.h"
+
