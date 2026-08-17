@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1765000579 source:c:\users\eufrasio\onedrive\desktop\lista10\hospital\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_hospital.h"
+	<string.h>
+
+1765000974 c:\users\eufrasio\onedrive\desktop\lista10\hospital\fila_hospital.h
+
+1765000974 source:c:\users\eufrasio\onedrive\desktop\lista10\hospital\functions_hospital.c
+	<stdio.h>
+	<stdlib.h>
+	"fila_hospital.h"
+	<string.h>
+
